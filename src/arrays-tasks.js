@@ -497,7 +497,7 @@ function findCommonElements(arr1, arr2) {
   }, []);
 }
 
-/** 
+/**
  * Finds the length of the longest increasing and uninterrupted subsequence of a given array of integers.
  *
  * @param {array} nums - The array of integers.
